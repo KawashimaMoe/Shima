@@ -1,8 +1,36 @@
 p{
     color: coral;
+    font-style: normal;
+}
+p.sub-title{
+    font-size: medium;
+}
+p#sub-title2{
+    color: cyan;
 }
 h1{
     color: cadetblue;
-    font-size: 50pt;
+    font-size: 30pt;
     font-weight: bold;
+}
+span.sagyou{
+    font-style: italic;
+}
+div.haco{
+    height: 100px;
+    width: 100px;
+    background-color: darkorange;
+    position: absolute;
+}
+div.haco2{
+    height: 100px;
+    width: 100px;
+    background-color: salmon;
+    position: absolute;
+}
+div.haco3{
+    height: 100px;
+    width: 100px;
+    background-color: coral;
+    position: absolute;
 }
